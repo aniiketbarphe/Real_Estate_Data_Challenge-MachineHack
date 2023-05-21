@@ -104,16 +104,18 @@ c) The private leaderboard will be made available at the end of the hackathon, w
 
 **a) Best Submission Score:-**
 
-**1) Public Leaderboard :-** 
+**1) Public Leaderboard :-** 0.19368
 
-**2) Private Leaderboard :-** 
+**2) Private Leaderboard :-** 0.18838
 
-**b) Best Model:-** 
+**b) Best Model:-** XGB Regressor
 
-c) Competition Link:- 
+**c) Competition Link:-** https://machinehack.com/hackathons/the_great_real_estate_data_challenge/leaderboard
 
-d) Rank Scored:-
+![IMAGE1](https://github.com/aniiketbarphe/Real_Estate_Data_Challenge-MachineHack/assets/84449238/802bf25d-0dca-4cf4-956e-2b13037e7977)
 
-a)  out of  registered participants (Public Leaderboard)
+![IMAGE2](https://github.com/aniiketbarphe/Real_Estate_Data_Challenge-MachineHack/assets/84449238/de72e25a-fd6b-4999-80f5-7a3587e79e44)
 
-b)  out of  registered participants (Private Leaderboard)
+**d) Rank Scored:-**
+
+a) 01 out of 143 registered participants (Public Leaderboard)
