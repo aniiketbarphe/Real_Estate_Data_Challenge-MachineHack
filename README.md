@@ -29,8 +29,11 @@ Test: 43954 × 12
 **Segment:-** It is a categorical feature which is encoded based on the forecast. There are four segments.
 
 **Segment 0 (Premium Properties):-** The segment likely includes high-end properties with large square footage, modern amenities, and upscale finishes.
+
 **Segment 1 (Valuable Properties):-** The segment likely includes smaller apartments that are more affordable for people on a budget.
+
 **Segment 2 (Standard Properties):-** The segment likely includes smaller homes that are affordable for first-time homebuyers.
+
 **Segment 3 (Budget Properties):-** The segment likely includes properties that need some work or repairs to be fully functional.
 
 **b) Secondary Target Variable(Need to Predict Final Target Variable):-**
@@ -40,11 +43,17 @@ Test: 43954 × 12
 **c) Input features:-**
 
 **c1) Year:-** The year in which the property was sold or valued.
+
 **c2) Date:-** The date on which the property was sold or valued.
+
 **c3) Locality:-** The name of the town where the property is located.
+
 **c4) Address:-** The complete address of the property.
+
 **c5) Estimated Value:-** The estimated market value of the property, which is based on factors such as its location, size, and condition.
+
 **c6) Property:-** A categorical feature indicating the type of property. There are six different categories.
+
 **c6.1) Condo**  **c6.2) Single-Family**
 Three Family
 Two Family
