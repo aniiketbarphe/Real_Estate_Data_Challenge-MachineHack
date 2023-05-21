@@ -2,7 +2,7 @@
 
 # Real_Estate_Data_Challenge-MachineHack
 
-** 1) Problem Statement:-**
+**1) Problem Statement:-**
 
 🏆 Ready to compete and showcase your data science skills? Join our weekly championship on Machine Hack and participate in the "The Great Real Estate Data Challenge"! 
 
