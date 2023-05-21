@@ -2,6 +2,8 @@
 
 # Real_Estate_Data_Challenge-MachineHack
 
+# *** 1) Problem Statement:-***
+
 🏆 Ready to compete and showcase your data science skills? Join our weekly championship on Machine Hack and participate in the "The Great Real Estate Data Challenge"! 
 
 Suppose there is an investment fund planning to invest in properties at hundreds of locations. 🏠 Based on the previous millions of property sales over the past few years, the fund house wants to identify the property which can result in a higher gain on investment. 💰 They can not go by analyzing all the properties one by one. 🤔 So they want the segmentation of properties so that they can look into their target segments. 🎯 So this challenge is going to help them by easily identifying their target properties using advanced AI and Analytics. 🔍
@@ -16,13 +18,6 @@ Finally, you need to submit your results as the segment level for each of the pr
 3: Budget Properties  🏠💵
 This exciting competition 🏆is divided into three rounds to test your knowledge and expertise.
 
-🔍 Round 1: Participants will take an MCQ test to demonstrate their basic understanding of data science and machine learning.
-
-💻 Round 2: Participants will solve small coding problems to showcase their coding skills.
-
-🔥 Round 3: In the final round, participants will take part in the hackathon where they will receive the actual dataset and build models to solve the given problem. This round will showcase their problem-solving skills using machine learning and data analytics.
-
-Join us for this thrilling competition and stand a chance to win exciting prizes!
 
 Train: 553952  × 11
 Test: 43954 × 12
