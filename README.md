@@ -25,6 +25,7 @@ Finally, you need to submit your results as the segment level for each of the pr
 You are provided with 3 files - train.csv, test.csv and sample_submission.csv
 
 Train: 553952  × 11
+
 Test: 43954 × 12
  
 **2.2) Data description:-**
@@ -89,5 +90,14 @@ Test: 43954 × 12
 
 **c10) property_tax_rate:-** The rate at which property taxes are assessed on the property, which may vary based on its location and year.
 
-What is the Metric In this competition? How is the Leaderboard Calculated?
-The submission will be evaluated using the accuracy metric.
+**3) Evaluation metric:-** The submission will be evaluated using the Accuracy metric
+
+**4) Public and Private Split:-**
+
+a) This hackathon supports private and public leaderboards.
+
+b) The public leaderboard is evaluated on 30% of Test data
+
+c) The private leaderboard will be made available at the end of the hackathon, which will be evaluated on 100% Test data
+
+# Summary
