@@ -54,12 +54,19 @@ Test: 43954 × 12
 
 **c6) Property:-** A categorical feature indicating the type of property. There are six different categories.
 
-**c6.1) Condo**  **c6.2) Single-Family**
-Three Family
-Two Family
-Four Family
-Residential
-Residential: A categorical feature which further explains the category in which a certain property falls. There are five different types of categories.
+**c6.1) Condo**  
+
+**c6.2) Single-Family**
+
+**c6.3) Three Family**
+
+**c6.4) Two Family**
+
+**c6.5) Four Family**
+
+**c6.6) Residential**
+
+**c7) Residential:-** A categorical feature which further explains the category in which a certain property falls. There are five different types of categories.
 Condominium
 Detached House
 Triplex
