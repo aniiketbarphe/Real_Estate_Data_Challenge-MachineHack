@@ -101,3 +101,19 @@ b) The public leaderboard is evaluated on 30% of Test data
 c) The private leaderboard will be made available at the end of the hackathon, which will be evaluated on 100% Test data
 
 # Summary
+
+**a) Best Submission Score:-**
+
+**1) Public Leaderboard :-** 
+
+**2) Private Leaderboard :-** 
+
+**b) Best Model:-** 
+
+c) Competition Link:- 
+
+d) Rank Scored:-
+
+a)  out of  registered participants (Public Leaderboard)
+
+b)  out of  registered participants (Private Leaderboard)
